@@ -1,1 +1,2 @@
 # ANCOM-BC_AD_Results
+This tables, created using ANCOM-BC R package, shows  for each taxon, found in oral microbiome samples from Alzheimer's disease patients in different degrees of the progression (from MCI(Mild Cognitive Impairment), OD(Objective Dementia), SCD(Severe Cognitive Decline) to AD(Alzheimer's disease)),  in each between-group comparison log fold changes, standard errors, p-values, corrected p-values by Benjamin & Honchberg (BH) method and markers of the taxon's differential abundance (TRUE) or absence (FALSE). 
